@@ -2,3 +2,6 @@
 bin
 /firstGit/.project
 /firstGit/.classpath
+/jd002/*.classpath
+/jd002/.project
+lib
